@@ -1,0 +1,40 @@
+#texto1{
+    width: 80%;
+    float: left;
+    font-family: verdana;
+    font-size: 150%;
+    text-align: 150%;
+    text-align: justify;
+}
+#p_texto1{
+    text-align: center;
+    margin-bottom: 2em;
+    
+}
+
+#imagen1{
+    width: 130%;
+    height: 10%;
+    float:none
+
+}
+#separacion {
+    clear: both;
+
+}
+#texto2 {
+    width: 60%;
+    float: right;
+    font-size: 200%;
+    text-align: justify;
+
+}
+
+#_ptexto2 {
+    text-align: center;
+
+}
+#imagen2 {
+    width: 25%;
+    float: left;
+}
